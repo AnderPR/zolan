@@ -2,8 +2,8 @@
 layout: post
 title:  Lenovo
 date:   2024-01-16 17:01:35 +0300
-image:  lenovo-logo.png 
-tags:   
+image:  lenovo.png 
+tags:   Lenovo
 ---
 Adéntrate en el fascinante universo de Lenovo, donde la innovación y la excelencia tecnológica se entrelazan para dar forma al futuro. Desde sus modestos comienzos en China hasta convertirse en un gigante global, la historia de Lenovo es una travesía repleta de logros, revoluciones tecnológicas y un compromiso inquebrantable con ofrecer productos que no solo cumplen, sino que también inspiran. Descubre cómo esta marca ha dejado una huella indeleble en la industria de la tecnología, redefiniendo la forma en que trabajamos, jugamos y nos conectamos en la era digital. 
 

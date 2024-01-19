@@ -3,7 +3,7 @@ layout: post
 title:  DELL
 date:   2024-01-16 22:01:35 +0300
 image:  dell.png
-tags:   Life
+tags:   DELL
 ---
 Dell es una empresa multinacional dedicada al desarrollo, fabricación, venta y soporte de productos tecnológicos, como computadoras, servidores, switches de red y programas informáticos. Fue fundada en 1983 por Michael Dell en Round Rock, Texas, Estados Unidos.
 
